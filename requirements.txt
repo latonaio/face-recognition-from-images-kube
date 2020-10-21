@@ -1,0 +1,2 @@
+azure-cognitiveservices-vision-face==0.4.0
+
